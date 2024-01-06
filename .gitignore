@@ -1,1 +1,13 @@
-# empty .gitignore
+## Eclipse/Maven
+.classpath
+.project
+.settings
+target/
+
+
+## Thumbnails created by Windows
+Thumbs.db
+
+
+## Backups
+*.bak
