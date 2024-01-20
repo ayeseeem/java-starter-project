@@ -6,6 +6,13 @@ Java Project Starter - `ARTIFACT_NAME`
 > Copy or clone this project for a quick start to a Java project that can be
 > built by Maven, aimed at Java 8+ code.
 >
+> There are various branches that will bring in other features. Use
+> `git merge` to pull them in:
+>
+> - `with-hamcrest`
+> - `licence-mit`
+> - `with-GitHub-CI`
+>
 > Delete this section and replace with an intro to the project.
 > Update the title above.
 >
