@@ -5,6 +5,8 @@ Java Project Starter - `ARTIFACT_NAME`
 > Java projects.
 > Copy or clone this project for a quick start to a Java project that can be
 > built by Maven, aimed at Java 8+ code.
+> On GitHub, this is configured as a
+> [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 >
 > There are various branches that will bring in other features. Use
 > `git merge` to pull them in:
@@ -17,7 +19,7 @@ Java Project Starter - `ARTIFACT_NAME`
 > Update the title above.
 >
 > Replace `ARTIFACT_NAME` everywhere - in the [POM](pom.xml), in this file,
-> in the directory structure, and anywhere else it's found - and with the name
+> in the directory structure, and anywhere else it's found - with the name
 > of the artifact.
 >
 > The sections below are a useful starting point for your project.
