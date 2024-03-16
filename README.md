@@ -5,7 +5,11 @@ Java Project Starter - `ARTIFACT_NAME`
 > Java projects.
 > Copy or clone this project for a quick start to a Java project that can be
 > built by Maven, aimed at Java 8+ code.
-> On GitHub, this is configured as a
+> If cloning, it's best to specify an origin name that won't interfere with
+> your normal working procedure (and eventual remote), so something like
+> `git clone --origin starter ...`
+>
+> On GitHub, this project is configured as a
 > [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 >
 > There are various branches that will bring in other features. Use
