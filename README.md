@@ -16,9 +16,12 @@ Java Project Starter - `ARTIFACT_NAME`
 >
 > If cloning, it's best to specify an origin name that won't interfere with
 > your normal working procedure (and eventual remote), so something like
+>
 > `git clone --origin starter ...`
+>
 > You can also prevent accidentally trying to push back to this instead
 > of your eventual remote by changing the push URL. Something like
+>
 > `git remote set-url --push starter DO_NOT_PUSH_HERE`
 >
 > There are various branches that will bring in other features. Use
