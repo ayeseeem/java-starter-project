@@ -5,9 +5,13 @@ Java Project Starter - `ARTIFACT_NAME`
 > Java projects.
 > Copy or clone this project for a quick start to a Java project that can be
 > built by Maven, aimed at Java 8+ code.
+>
 > If cloning, it's best to specify an origin name that won't interfere with
 > your normal working procedure (and eventual remote), so something like
 > `git clone --origin starter ...`
+> You can also prevent accidentally trying to push back to this instead
+> of your eventual remote by changing the push URL. Something like
+> `git remote set-url --push starter DO_NOT_PUSH_HERE`
 >
 > On GitHub, this project is configured as a
 > [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
